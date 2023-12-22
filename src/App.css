@@ -7,6 +7,13 @@
   pointer-events: none;
 }
 
+.border-bottom{
+  border-bottom: none !important;
+}
+
+.accordion-button border-bottom {
+border-bottom: none !important;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
